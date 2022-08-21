@@ -4,4 +4,5 @@ const myName = {
 };
 // adding changes in main branch
 //  fixing console bug
+console.log("solving the bug");
 console.log(`${myName.firstName} ${myName.lastName}`);
