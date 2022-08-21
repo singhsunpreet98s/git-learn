@@ -1,8 +1,9 @@
 const myName = {
-   firstName: "sunpreet",
+   firstNameA: "sunpreet",
    lastName: "singh"
 };
 // adding changes in main branch
 //  fixing console bug
 console.log("solving the bug");
-console.log(`${myName.firstName} ${myName.lastName}`);
+// doing naming convection wrong
+console.log(`${myName.firstNameA} ${myName.lastName}`);
