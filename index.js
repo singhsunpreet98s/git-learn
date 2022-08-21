@@ -3,5 +3,6 @@ const myName = {
    lastName: "singh"
 };
 // adding changes in main branch
-
-console.log(myName.firstName, myName.lastName);
+//  fixing console bug
+console.log("solving the bug");
+console.log(`${myName.firstName} ${myName.lastName}`);
