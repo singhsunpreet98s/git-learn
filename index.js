@@ -7,4 +7,10 @@ const myName = {
 
 // here i am adding a new feature of age
 
-console.log(myName.firstName, myName.lastName);
+
+// adding changes in main branch
+//  fixing console bug
+console.log("solving the bug");
+// doing naming convection wrong
+console.log(`${myName.firstNameA} ${myName.lastName}`);
+
